@@ -9,22 +9,17 @@
 
 ### Streaming-LLM-chat
 
-<body>This is a transformers library application that
+This is a transformers library application
 
-allows you to choose a local LLM and run
+that allows you to choose a local LLM and run
 
 streaming inference on GPU.
 
 it uses:
 
-
-
-Python 3.8.10
-
-Transformers version: 4.36.2
-
-transformers_stream_generator
-
+- Python: 3.8.10
+- transformers library: 4.36.2
+- transformers_stream_generator library
 
 the models are predownloaded to the
 
