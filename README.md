@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-![samplechat](https://github.com/sujitvasanth/streaming-LLM-chat/assets/18464444/88f0c0c8-2b42-458f-8928-2161f8218e32)
+![samplechat](https://github.com/sujitvasanth/streaming-LLM-chat/blob/main/samplechat.gif)
 
 </td>
 <td>
