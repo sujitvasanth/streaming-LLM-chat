@@ -21,9 +21,15 @@ it uses:
 - transformers library: 4.36.2
 - transformers_stream_generator library
 
-the models are predownloaded to the
+the models are assumed to be in
 
 oogabooga textgeneration ui folder
+
+the openchat model is available at
+
+https://huggingface.co/
+
+sujitvasanth/openchat-3.5-0106-GPTQ
 </body>
 </td>
 </tr>
