@@ -30,10 +30,8 @@ the openchat model is available at
 https://huggingface.co/
 
 TheBloke/openchat-3.5-0106-GPTQ
+
 sujitvasanth/TheBloke-openchat-3.5-0106-GPTQ
-
-
-Q
 </body>
 </td>
 </tr>
