@@ -17,3 +17,13 @@ the openchat model is available at https://huggingface.co/
 TheBloke/openchat-3.5-0106-GPTQ
 
 sujitvasanth/TheBloke-openchat-3.5-0106-GPTQ
+
+I recently had difficulty with GPTQ installation see below
+
+If you are using PyTorch 2.0, you will need to install AutoGPTQ from source. Likewise if you have problems with the pre-built wheels, you should try building from source:
+
+pip3 uninstall -y auto-gptq
+git clone https://github.com/PanQiWei/AutoGPTQ
+cd AutoGPTQ
+git checkout v0.5.1
+pip3 install .
